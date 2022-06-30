@@ -9,13 +9,11 @@
 <h3>Tecnologias utlilizadas:</h3>
 
 <ul>
-  <li>
-    React.JS
-    React Router Dom
-    GraphQL
-    Apollo Client
-    Vime
-    TailwindCSS
-    PhosphorReact
-  </li>
+    <li>React.JS</li>
+    <li>React Router Dom</li>
+    <li>GraphQL</li>
+    <li>Apollo Client</li>
+    <li>Vime</li>
+    <li>TailwindCSS</li>
+    <li>PhosphorReact</li>
 </ul>
